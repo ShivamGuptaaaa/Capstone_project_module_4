@@ -1,6 +1,8 @@
 
 # Hotel-Booking-Analysis-Tableau-Dashboard
 
+Tableau Link - https://public.tableau.com/views/HotelBookingAnalysis_17174960472920/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ![App Screenshot](https://github.com/ShivamGuptaaaa/Capstone_project_module_4/blob/main/Dashboard%201.png)
