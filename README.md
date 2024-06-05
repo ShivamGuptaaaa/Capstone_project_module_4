@@ -9,23 +9,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📖 Introduction
-
-Analysing the data of Hotel Booking. This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
-
-We will perform exploratory data analysis with python to get insight from the data.
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-## 📖 Problem Statement
-
-Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? This hotel booking dataset can help you explore those questions!
-
-Explore and analyze the data to discover important factors that govern the bookings.
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 ## 📖 Data Summary
 
 Dataset contains following features:
@@ -65,15 +48,9 @@ Dataset contains following features:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📖 Tools and Libraries Used
+## 📖 Tools Used
 
-
-We have used Python 3 to its following packages:
-
-1. Pandas
-2. Matplotlib
-3. Seaborn
-4. Sklearn
+Tableau
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
