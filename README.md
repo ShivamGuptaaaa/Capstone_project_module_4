@@ -1,9 +1,9 @@
 
-# Hotel-Booking-Analysis
+# Hotel-Booking-Analysis-Tableau-Dashboard
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![App Screenshot](https://c.wallhere.com/photos/1f/75/hotel-185213.jpg!d)
+![App Screenshot](https://github.com/ShivamGuptaaaa/Capstone_project_module_4/blob/main/Dashboard%201.png)
 
 
 
